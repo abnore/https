@@ -10,4 +10,9 @@ Currently limited to `HTTP/1.1`, does not support higher-level features such as
 response parsing, redirects, or `HTTP/2`.
 
 ## Resources
- * Docs: https://docs.openssl.org/master/man7/ossl-guide-libssl-introduction/
+### Docs:
+ * https://docs.openssl.org/master/man7/ossl-guide-libssl-introduction/
+ * https://datatracker.ietf.org/doc/rfc9110/
+ * https://datatracker.ietf.org/doc/rfc9111/
+ * https://datatracker.ietf.org/doc/rfc9112/
+ * https://datatracker.ietf.org/doc/rfc9205/
